@@ -1,22 +1,49 @@
 {
 	"songs": [
-		["Spookeez", "spooky", [34, 51, 68]],
-		["South", "spooky", [34, 51, 68]],
-		["Monster", "monster", [34, 51, 68]]
+		[
+			"spookeez",
+			"bf",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"south",
+			"spooky",
+			[
+				0,
+				255,
+				35
+			]
+		],
+		[
+			"milf",
+			"pico",
+			[
+				146,
+				173,
+				253
+			]
+		]
 	],
-
 	"weekCharacters": [
-		"spooky",
+		"dad",
 		"bf",
 		"gf"
 	],
-	"weekBackground": "halloween",
-
-	"storyName": "Spooky Month",
+	"weekBackground": "stage",
 	"weekBefore": "week1",
-	"weekName": "Week 2",
-	"startUnlocked": true,
-
+	"storyName": "online vs psych port",
+	"weekName": "psych port online vs",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": false,
 	"hideStoryMode": false,
-	"hideFreeplay": false
+	"hideFreeplay": false,
+	"difficulties": "Hard"
 }
