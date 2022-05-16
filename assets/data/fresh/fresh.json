@@ -6240,7 +6240,7 @@
 				"mustHitSection": true
 			}
 		],
-		"player2": "spooky",
+		"player2": "edd",
 		"player3": null,
 		"song": "Fresh",
 		"stage": "stage",
@@ -6249,4 +6249,4 @@
 		"bpm": 186,
 		"speed": 2.8
 	}
-}
+}f
