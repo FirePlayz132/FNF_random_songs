@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="cg-choke3.png"><SubTexture name="cg-choke3 die0000" x="0" y="0" width="1846" height="1169" frameX="0" frameY="0" frameWidth="1846" frameHeight="1169" />
+<SubTexture name="cg-choke3 die0001" x="1846" y="0" width="1846" height="1169" frameX="0" frameY="0" frameWidth="1846" frameHeight="1169" />
+<SubTexture name="cg-choke3 die0002" x="3692" y="0" width="1846" height="1169" frameX="0" frameY="0" frameWidth="1846" frameHeight="1169" />
+<SubTexture name="cg-choke3 die0003" x="5538" y="0" width="1846" height="1169" frameX="0" frameY="0" frameWidth="1846" frameHeight="1169" />
+<SubTexture name="cg-choke3 die0004" x="0" y="1169" width="1846" height="1169" frameX="0" frameY="0" frameWidth="1846" frameHeight="1169" />
+<SubTexture name="cg-choke3 die0005" x="1846" y="1169" width="1846" height="1169" frameX="0" frameY="0" frameWidth="1846" frameHeight="1169" />
+<SubTexture name="cg-choke3 spit0000" x="3692" y="1169" width="1846" height="1169" frameX="0" frameY="0" frameWidth="1846" frameHeight="1169" />
+<SubTexture name="cg-choke3 spit0001" x="5538" y="1169" width="1846" height="1169" frameX="0" frameY="0" frameWidth="1846" frameHeight="1169" />
+<SubTexture name="cg-choke3 spit0002" x="0" y="2338" width="1846" height="1169" frameX="0" frameY="0" frameWidth="1846" frameHeight="1169" />
+<SubTexture name="cg-choke3 spit0003" x="1846" y="2338" width="1846" height="1169" frameX="0" frameY="0" frameWidth="1846" frameHeight="1169" />
+<SubTexture name="cg-choke3 spit0004" x="3692" y="2338" width="1846" height="1169" frameX="0" frameY="0" frameWidth="1846" frameHeight="1169" />
+<SubTexture name="cg-choke3 spit0005" x="5538" y="2338" width="1846" height="1169" frameX="0" frameY="0" frameWidth="1846" frameHeight="1169" />
+<SubTexture name="cg-choke3 spit0006" x="0" y="3507" width="1846" height="1169" frameX="0" frameY="0" frameWidth="1846" frameHeight="1169" />
+<SubTexture name="cg-choke3 spit0007" x="1846" y="3507" width="1846" height="1169" frameX="0" frameY="0" frameWidth="1846" frameHeight="1169" />
+<SubTexture name="cg-choke3 spit0008" x="3692" y="3507" width="1846" height="1169" frameX="0" frameY="0" frameWidth="1846" frameHeight="1169" />
+<SubTexture name="cg-choke3 spit0009" x="5538" y="3507" width="1846" height="1169" frameX="0" frameY="0" frameWidth="1846" frameHeight="1169" />
+<SubTexture name="cg-choke3 idle0000" x="0" y="4676" width="1846" height="1169" frameX="0" frameY="0" frameWidth="1846" frameHeight="1169" />
+</TextureAtlas>

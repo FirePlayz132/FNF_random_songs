@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="cg-choke.png"><SubTexture name="cg-choke idle0000" x="0" y="0" width="1846" height="1148" frameX="0" frameY="0" frameWidth="1846" frameHeight="1148" />
+<SubTexture name="cg-choke idle0001" x="1846" y="0" width="1846" height="1148" frameX="0" frameY="0" frameWidth="1846" frameHeight="1148" />
+<SubTexture name="cg-choke idle0002" x="3692" y="0" width="1846" height="1148" frameX="0" frameY="0" frameWidth="1846" frameHeight="1148" />
+<SubTexture name="cg-choke idle0003" x="5538" y="0" width="1846" height="1148" frameX="0" frameY="0" frameWidth="1846" frameHeight="1148" />
+<SubTexture name="cg-choke idle0004" x="7384" y="0" width="1846" height="1148" frameX="0" frameY="0" frameWidth="1846" frameHeight="1148" />
+<SubTexture name="cg-choke idle0005" x="0" y="1148" width="1846" height="1148" frameX="0" frameY="0" frameWidth="1846" frameHeight="1148" />
+<SubTexture name="cg-choke idle0006" x="1846" y="1148" width="1846" height="1148" frameX="0" frameY="0" frameWidth="1846" frameHeight="1148" />
+<SubTexture name="cg-choke idle0007" x="3692" y="1148" width="1846" height="1148" frameX="0" frameY="0" frameWidth="1846" frameHeight="1148" />
+<SubTexture name="cg-choke idle0008" x="5538" y="1148" width="1846" height="1148" frameX="0" frameY="0" frameWidth="1846" frameHeight="1148" />
+<SubTexture name="cg-choke idle0009" x="7384" y="1148" width="1846" height="1148" frameX="0" frameY="0" frameWidth="1846" frameHeight="1148" />
+<SubTexture name="cg-choke idle0010" x="0" y="2296" width="1846" height="1148" frameX="0" frameY="0" frameWidth="1846" frameHeight="1148" />
+<SubTexture name="cg-choke idle0011" x="1846" y="2296" width="1846" height="1148" frameX="0" frameY="0" frameWidth="1846" frameHeight="1148" />
+<SubTexture name="cg-choke idle0012" x="3692" y="2296" width="1846" height="1148" frameX="0" frameY="0" frameWidth="1846" frameHeight="1148" />
+<SubTexture name="cg-choke idle0013" x="5538" y="2296" width="1846" height="1148" frameX="0" frameY="0" frameWidth="1846" frameHeight="1148" />
+<SubTexture name="cg-choke right0000" x="7384" y="2296" width="1846" height="1148" frameX="0" frameY="0" frameWidth="1846" frameHeight="1148" />
+<SubTexture name="cg-choke right0001" x="0" y="3444" width="1846" height="1148" frameX="0" frameY="0" frameWidth="1846" frameHeight="1148" />
+<SubTexture name="cg-choke right0002" x="1846" y="3444" width="1846" height="1148" frameX="0" frameY="0" frameWidth="1846" frameHeight="1148" />
+<SubTexture name="cg-choke right0003" x="3692" y="3444" width="1846" height="1148" frameX="0" frameY="0" frameWidth="1846" frameHeight="1148" />
+<SubTexture name="cg-choke right0004" x="5538" y="3444" width="1846" height="1148" frameX="0" frameY="0" frameWidth="1846" frameHeight="1148" />
+<SubTexture name="cg-choke left0000" x="7384" y="3444" width="1846" height="1148" frameX="0" frameY="0" frameWidth="1846" frameHeight="1148" />
+<SubTexture name="cg-choke left0001" x="0" y="4592" width="1846" height="1148" frameX="0" frameY="0" frameWidth="1846" frameHeight="1148" />
+<SubTexture name="cg-choke left0002" x="1846" y="4592" width="1846" height="1148" frameX="0" frameY="0" frameWidth="1846" frameHeight="1148" />
+<SubTexture name="cg-choke left0003" x="3692" y="4592" width="1846" height="1148" frameX="0" frameY="0" frameWidth="1846" frameHeight="1148" />
+<SubTexture name="cg-choke left0004" x="5538" y="4592" width="1846" height="1148" frameX="0" frameY="0" frameWidth="1846" frameHeight="1148" />
+<SubTexture name="cg-choke down0000" x="7384" y="4592" width="1846" height="1148" frameX="0" frameY="0" frameWidth="1846" frameHeight="1148" />
+<SubTexture name="cg-choke down0001" x="0" y="5740" width="1846" height="1148" frameX="0" frameY="0" frameWidth="1846" frameHeight="1148" />
+<SubTexture name="cg-choke down0002" x="1846" y="5740" width="1846" height="1148" frameX="0" frameY="0" frameWidth="1846" frameHeight="1148" />
+<SubTexture name="cg-choke down0003" x="3692" y="5740" width="1846" height="1148" frameX="0" frameY="0" frameWidth="1846" frameHeight="1148" />
+<SubTexture name="cg-choke down0004" x="5538" y="5740" width="1846" height="1148" frameX="0" frameY="0" frameWidth="1846" frameHeight="1148" />
+<SubTexture name="cg-choke up0000" x="7384" y="5740" width="1846" height="1148" frameX="0" frameY="0" frameWidth="1846" frameHeight="1148" />
+<SubTexture name="cg-choke up0001" x="0" y="6888" width="1846" height="1148" frameX="0" frameY="0" frameWidth="1846" frameHeight="1148" />
+<SubTexture name="cg-choke up0002" x="1846" y="6888" width="1846" height="1148" frameX="0" frameY="0" frameWidth="1846" frameHeight="1148" />
+<SubTexture name="cg-choke up0003" x="3692" y="6888" width="1846" height="1148" frameX="0" frameY="0" frameWidth="1846" frameHeight="1148" />
+<SubTexture name="cg-choke up0004" x="5538" y="6888" width="1846" height="1148" frameX="0" frameY="0" frameWidth="1846" frameHeight="1148" />
+</TextureAtlas>
