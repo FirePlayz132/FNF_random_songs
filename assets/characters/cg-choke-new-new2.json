@@ -1,0 +1,67 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "chokeLEFT",
+			"fps": 15,
+			"name": "cg-choke2 left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "chokeDOWN",
+			"fps": 15,
+			"name": "cg-choke2 down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "chokeUP",
+			"fps": 15,
+			"name": "cg-choke2 up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "chokeRIGHT",
+			"fps": 15,
+			"name": "cg-choke2 right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/cg-choke2",
+	"position": [
+		-250,
+		-390
+	],
+	"healthicon": "laughoutloud",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		-140,
+		60
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

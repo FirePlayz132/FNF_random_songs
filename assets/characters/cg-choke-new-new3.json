@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "spit",
+			"fps": 15,
+			"name": "cg-choke3 spit",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "die",
+			"fps": 12,
+			"name": "cg-choke3 die",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle-alt",
+			"fps": 12,
+			"name": "cg-choke3 idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/cg-choke3",
+	"position": [
+		-250,
+		-390
+	],
+	"healthicon": "laughoutloud",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		-140,
+		60
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
