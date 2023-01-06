@@ -1,6 +1,6 @@
 {
 	"song": {
-		"player1": "bf-pixel-start",
+		"player1": "bf-pixel",
 		"events": [
 			[
 				112868.785009439,
@@ -30918,9 +30918,9 @@
 			{}
 		],
 		"chartVersion": "2",
-		"song": "Missingno",
+		"song": "spookeez",
 		"validScore": true,
-		"stage": "missingno",
+		"stage": "stage",
 		"needsVoices": true,
 		"noteStyle": "normal",
 		"speed": 2.7,
