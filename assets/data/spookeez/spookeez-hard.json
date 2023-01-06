@@ -853,21 +853,15 @@
 				]
 			]
 		],
-		"player2": "missingno_start",
+		"player2": "monster",
 		"notes": [
 			{
 				"endTime": 2201.83486238532,
 				"altAnim": false,
-				"mustHitSection": false,
+				"mustHitSection": true,
 				"lengthInSteps": 16,
 				"typeOfSection": 0,
-				"sectionNotes": [
-					[
-						0,
-						0,
-						0
-					]
-				],
+				"sectionNotes": [],
 				"changeBPM": false,
 				"bpm": 109,
 				"startTime": 0
@@ -886,7 +880,7 @@
 			{
 				"endTime": 6605.50458715596,
 				"altAnim": false,
-				"mustHitSection": false,
+				"mustHitSection": true,
 				"lengthInSteps": 16,
 				"typeOfSection": 0,
 				"sectionNotes": [],
@@ -908,7 +902,7 @@
 			{
 				"endTime": 11009.1743119266,
 				"altAnim": false,
-				"mustHitSection": false,
+				"mustHitSection": true,
 				"lengthInSteps": 16,
 				"typeOfSection": 0,
 				"sectionNotes": [],
@@ -930,7 +924,7 @@
 			{
 				"endTime": 15412.8440366972,
 				"altAnim": false,
-				"mustHitSection": false,
+				"mustHitSection": true,
 				"lengthInSteps": 16,
 				"typeOfSection": 0,
 				"sectionNotes": [],
@@ -1394,6 +1388,66 @@
 					[
 						43506.2723261073,
 						4,
+						0
+					],
+					[
+						43591.59655818922,
+						3,
+						0
+					],
+					[
+						43847.56925443496,
+						2,
+						0
+					],
+					[
+						43932.89348651687,
+						1,
+						0
+					],
+					[
+						43847.56925443496,
+						2,
+						0
+					],
+					[
+						43591.59655818922,
+						2,
+						0
+					],
+					[
+						43591.59655818922,
+						1,
+						0
+					],
+					[
+						44018.21771859878,
+						3,
+						0
+					],
+					[
+						44018.21771859878,
+						1,
+						0
+					],
+					[
+						43847.56925443496,
+						0,
+						0
+					],
+					[
+						43676.920790271135,
+						3,
+						0
+					],
+					[
+						43762.24502235305,
+						0,
+						0
+					],
+					[
+						43762.24502235305,
+						1,
 						0
 					]
 				],
@@ -30911,16 +30965,36 @@
 				"sectionBeats": 4,
 				"changeBPM": false,
 				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"bpm": 120,
+				"changeBPM": false,
+				"mustHitSection": true,
+				"gfSection": false,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"altAnim": false
+			},
+			{
+				"lengthInSteps": 16,
+				"bpm": 120,
+				"changeBPM": false,
+				"mustHitSection": true,
+				"gfSection": false,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"altAnim": false
 			}
 		],
-		"gfVersion": "gf",
+		"gfVersion": "gf-pixel",
 		"eventObjects": [
 			{}
 		],
 		"chartVersion": "2",
 		"song": "spookeez",
 		"validScore": true,
-		"stage": "stage",
+		"stage": "school",
 		"needsVoices": true,
 		"noteStyle": "normal",
 		"speed": 2.7,
