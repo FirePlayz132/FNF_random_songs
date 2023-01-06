@@ -2,7 +2,7 @@
 	"animations": [
 		{
 			"offsets": [
-				3,
+				0,
 				0
 			],
 			"loop": false,
@@ -13,8 +13,8 @@
 		},
 		{
 			"offsets": [
-				-20,
-				94
+				1,
+				-2
 			],
 			"loop": false,
 			"anim": "singUP",
@@ -24,8 +24,8 @@
 		},
 		{
 			"offsets": [
-				-30,
-				20
+				8,
+				-1
 			],
 			"loop": false,
 			"anim": "singLEFT",
@@ -35,8 +35,8 @@
 		},
 		{
 			"offsets": [
-				-51,
-				30
+				3,
+				1
 			],
 			"loop": false,
 			"anim": "singRIGHT",
@@ -46,8 +46,8 @@
 		},
 		{
 			"offsets": [
-				-50,
-				-80
+				10,
+				0
 			],
 			"loop": false,
 			"anim": "singDOWN",
@@ -131,23 +131,23 @@
 			"name": "monster down"
 		}
 	],
-	"no_antialiasing": false,
+	"no_antialiasing": true,
 	"image": "characters/Monster_Assets",
 	"position": [
-		0,
-		100
+		70,
+		280
 	],
 	"healthicon": "monster",
 	"flip_x": false,
 	"healthbar_colors": [
-		243,
-		255,
-		110
+		128,
+		112,
+		152
 	],
 	"camera_position": [
-		0,
-		0
+		-340,
+		-240
 	],
 	"sing_duration": 4,
-	"scale": 1
+	"scale": 6.00000000000001
 }
