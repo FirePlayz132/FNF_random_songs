@@ -19,7 +19,7 @@
 			],
 			"anim": "singLEFT",
 			"fps": 24,
-			"name": "note sing left",
+			"name": "RON_LEFT",
 			"indices": []
 		},
 		{
@@ -30,7 +30,7 @@
 			],
 			"anim": "singRIGHT",
 			"fps": 24,
-			"name": "spooky sing right",
+			"name": "RON_RIGHT",
 			"indices": []
 		},
 		{
@@ -41,7 +41,7 @@
 			],
 			"anim": "singDOWN",
 			"fps": 24,
-			"name": "spooky DOWN note",
+			"name": "RON_DOWN",
 			"indices": []
 		},
 		{
@@ -57,7 +57,7 @@
 				2,
 				6
 			],
-			"name": "spooky dance idle"
+			"name": "RON_IDLE"
 		},
 		{
 			"loop": false,
@@ -73,7 +73,7 @@
 				12,
 				14
 			],
-			"name": "spooky dance idle"
+			"name": "RON_IDLE"
 		},
 		{
 			"loop": false,
@@ -84,7 +84,7 @@
 			"fps": 24,
 			"anim": "singUP",
 			"indices": [],
-			"name": "spooky UP NOTE"
+			"name": "RON_UP"
 		}
 	],
 	"no_antialiasing": false,
