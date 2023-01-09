@@ -57,7 +57,7 @@
 		}
 	],
 	"image": "characters/spooky_kids_assets",
-	"scale": 0.40000000000000013,
+	"scale": 1,
 	"sing_duration": 4,
 	"healthicon": "spooky",
 	"position": [
