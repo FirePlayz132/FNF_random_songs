@@ -45,7 +45,7 @@
 			"name": "RON_UP"
 		},
 		{
-			"anim": "Idle",
+			"anim": "idle",
 			"name": "RON_IDLE",
 			"fps": 12,
 			"loop": false,
