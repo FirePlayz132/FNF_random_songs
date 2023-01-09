@@ -1,78 +1,142 @@
 {
 	"animations": [
 		{
-			"loop": false,
 			"offsets": [
-				-5,
-				0
+				-9,
+				10
 			],
+			"loop": false,
 			"anim": "singLEFT",
-			"fps": 14,
-			"name": "cg-choke left",
+			"fps": 24,
+			"name": "Dad Sing Note LEFT",
 			"indices": []
 		},
 		{
-			"loop": false,
 			"offsets": [
-				-5,
-				0
+				0,
+				-30
 			],
+			"loop": false,
 			"anim": "singDOWN",
-			"fps": 14,
-			"name": "cg-choke down",
+			"fps": 24,
+			"name": "Dad Sing Note DOWN",
 			"indices": []
 		},
 		{
-			"loop": false,
 			"offsets": [
-				-5,
-				0
+				-6,
+				50
 			],
-			"anim": "singRIGHT",
-			"fps": 14,
-			"name": "cg-choke right",
-			"indices": []
-		},
-		{
 			"loop": false,
-			"offsets": [
-				-5,
-				0
-			],
 			"anim": "singUP",
-			"fps": 14,
-			"name": "cg-choke up",
+			"fps": 24,
+			"name": "Dad Sing Note UP",
 			"indices": []
 		},
 		{
-			"loop": false,
 			"offsets": [
-				-5,
+				0,
+				27
+			],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Dad Sing Note RIGHT",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
 				0
 			],
+			"loop": false,
 			"anim": "idle",
-			"fps": 16,
-			"name": "cg-choke idle",
+			"fps": 24,
+			"name": "Dad idle dance",
 			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle-loop",
+			"indices": [
+				10,
+				11,
+				12,
+				12
+			],
+			"name": "Dad idle dance"
+		},
+		{
+			"offsets": [
+				-9,
+				10
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singLEFT-loop",
+			"indices": [
+				12,
+				13,
+				14,
+				15
+			],
+			"name": "Dad Sing Note LEFT"
+		},
+		{
+			"offsets": [
+				0,
+				27
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singRIGHT-loop",
+			"indices": [
+				15,
+				16,
+				17,
+				18
+			],
+			"name": "Dad Sing Note RIGHT"
+		},
+		{
+			"offsets": [
+				-6,
+				50
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singUP-loop",
+			"indices": [
+				56,
+				57,
+				58,
+				59
+			],
+			"name": "Dad Sing Note UP"
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/dad",
+	"image": "characters/DADDY_DEAREST",
 	"position": [
-		-250,
-		-390
+		0,
+		0
 	],
-	"healthicon": "laughoutloud",
+	"healthicon": "dad",
 	"flip_x": false,
 	"healthbar_colors": [
-		255,
-		255,
-		255
+		175,
+		102,
+		206
 	],
 	"camera_position": [
-		-140,
-		60
+		0,
+		0
 	],
-	"sing_duration": 4,
+	"sing_duration": 6.1,
 	"scale": 1
 }
