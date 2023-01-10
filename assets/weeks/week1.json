@@ -1,31 +1,32 @@
 {
 	"songs": [
 		[
-			"Bopeebo",
-			"bf",
+			"Dad Battle",
+			"monster",
 			[
-				255,
-				35,
-				0
+				146,
+				113,
+				253
 			]
 		],
 		[
 			"Fresh",
-			"spooky",
+			"dad",
 			[
-				46,
+				0,
 				255,
-				null
+				35
 			]
 		],
 		[
-			"Dad Battle",
-			"pico",
+			"Bopeebo",
+			"spooky",
 			[
 				146,
 				173,
-				255
+				253
 			]
+		]
 	],
 	"weekCharacters": [
 		"dad",
