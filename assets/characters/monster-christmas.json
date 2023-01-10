@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				10,
+				-20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "bob_up"
+		},
+		{
+			"offsets": [
+				10,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "bob_left"
+		},
+		{
+			"offsets": [
+				9,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "bob_right"
+		},
+		{
+			"offsets": [
+				10,
+				-74
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "bob_down"
+		},
+		{
+			"anim": "idle",
+			"name": "bob_idle",
+			"fps": 24,
+			"loop": false,
+			"indices": [],
+			"offsets": [
+				11,
+				0
+			]
+		}
+	],
+	"image": "characters/monsterChristmas",
+	"scale": 0.7000000000000001,
+	"sing_duration": 4,
+	"healthicon": "monster",
+	"position": [
+		-30,
+		160
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"flip_x": true,
+	"no_antialiasing": false,
+	"healthbar_colors": [
+		255,
+		254,
+		248
+	]
+}
