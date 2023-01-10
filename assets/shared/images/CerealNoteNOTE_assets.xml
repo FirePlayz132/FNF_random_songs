@@ -1,7 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<TextureAtlas imagePath="CerealNoteNOTE_assets.png">
-	<SubTexture name="blue0000" x="2" y="2" width="140" height="153"/>
-	<SubTexture name="green0000" x="144" y="2" width="144" height="153"/>
-	<SubTexture name="purple0000" x="290" y="2" width="144" height="139"/>
-	<SubTexture name="red0000" x="2" y="157" width="150" height="139"/>
-</TextureAtlas>
