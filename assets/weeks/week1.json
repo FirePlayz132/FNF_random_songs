@@ -41,8 +41,8 @@
 		113,
 		253
 	],
-	"startUnlocked": true,
+	"startUnlocked": false,
 	"hideStoryMode": false,
 	"hideFreeplay": false,
-	"difficulties": "Normal"
+	"difficulties": "normal"
 }
